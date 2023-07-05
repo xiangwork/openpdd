@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/openpdd/api/ddk"
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/api/ddk"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // AllOrderListIncrementGetRequest 查询所有授权的多多客订单API Request

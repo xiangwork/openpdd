@@ -1,4 +1,4 @@
-module github.com/bububa/openpdd
+module github.com/xiangwork/openpdd
 
 go 1.17
 

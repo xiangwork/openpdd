@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // WeappQrcodeUrlGenRequest 多多客生成单品推广小程序二维码url API Request

@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // GoodsPidQueryRequest 查询已经生成的推广位信息 API Request

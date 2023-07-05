@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // ResourceUrlGenRequest 生成多多进宝频道推广 API Request

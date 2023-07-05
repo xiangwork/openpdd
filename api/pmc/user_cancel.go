@@ -1,8 +1,8 @@
 package pmc
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // UserCancelRequest 取消用户的消息服务 API Request

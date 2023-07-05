@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // OrderListRangeGetRequest 用时间段查询推广订单接口 API Request

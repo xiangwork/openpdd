@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/openpdd/api/ddk"
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/api/ddk"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // GoodsZsUnitUrlGenRequest 多多进宝转链接口 API Request

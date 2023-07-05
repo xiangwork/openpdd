@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/openpdd/api/ddk"
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/api/ddk"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // MemberAuthorityQueryRequest 查询是否绑定备案 API Request

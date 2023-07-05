@@ -6,7 +6,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // ReportVideoUploadFearless 多多客信息流投放备案视频上传接口

@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/openpdd/api/ddk"
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/api/ddk"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // CashgiftStatusUpdateRequest 多多礼金状态更新 API Request

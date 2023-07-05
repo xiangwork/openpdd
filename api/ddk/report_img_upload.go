@@ -3,8 +3,8 @@ package ddk
 import (
 	"io"
 
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // ReportImgUploadRequest 多多客信息流投放备案图片上传接口 API Request

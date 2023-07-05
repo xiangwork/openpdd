@@ -1,8 +1,8 @@
 package ddk
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // MemberAuthorityQueryRequest 查询是否绑定备案 API Request

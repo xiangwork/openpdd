@@ -1,8 +1,8 @@
 package oauth
 
 import (
-	"github.com/bububa/openpdd/api/ddk"
-	"github.com/bububa/openpdd/core"
+	"github.com/xiangwork/openpdd/api/ddk"
+	"github.com/xiangwork/openpdd/core"
 )
 
 // GoodsSearchRequest 多多进宝商品查询 API Request

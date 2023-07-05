@@ -1,8 +1,8 @@
 package auth
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // TokenCreateRequest 获取Access Token API Request

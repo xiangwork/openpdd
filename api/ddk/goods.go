@@ -1,6 +1,6 @@
 package ddk
 
-import "github.com/bububa/openpdd/model"
+import "github.com/xiangwork/openpdd/model"
 
 // Goods 多多进宝商品
 type Goods struct {

@@ -4,8 +4,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // ReportVideoUploadPartRequest 多多客信息流投放备案视频上传分片上传接口 API Request
