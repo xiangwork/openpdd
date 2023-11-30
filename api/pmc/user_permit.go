@@ -3,8 +3,8 @@ package pmc
 import (
 	"strings"
 
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // UserPermitRequest 为已授权的用户开通消息服务 API Request

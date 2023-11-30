@@ -1,8 +1,8 @@
 package pmc
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // UserGetRequest 获取用户已开通消息 API Request

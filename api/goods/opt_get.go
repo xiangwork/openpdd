@@ -1,8 +1,8 @@
 package goods
 
 import (
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // OptGetRequest 查询商品标签列表 API Request

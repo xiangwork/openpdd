@@ -3,8 +3,8 @@ package ddk
 import (
 	"errors"
 
-	"github.com/bububa/openpdd/core"
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/core"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // GoodsPromotionRightAuthRequest 多多进宝信息流渠道备案授权素材上传接口 API Request

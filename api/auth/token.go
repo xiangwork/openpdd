@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/bububa/openpdd/model"
+	"github.com/xiangwork/openpdd/model"
 )
 
 // Token 调用令牌
